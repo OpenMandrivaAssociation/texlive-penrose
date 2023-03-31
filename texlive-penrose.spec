@@ -1,6 +1,6 @@
 Name:		texlive-penrose
 Version:	57508
-Release:	1
+Release:	2
 Summary:	A TikZ library for producing Penrose tilings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/penrose
