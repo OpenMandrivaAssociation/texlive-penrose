@@ -3,7 +3,7 @@ Version:	57508
 Release:	2
 Summary:	A TikZ library for producing Penrose tilings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/penrose
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/penrose
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/penrose.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/penrose.doc.r%{version}.tar.xz
